@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning Typescript and Spring framework to improve my knowledges on websites development  
   
-
-- ⚡ Fun fact: I use tabs over spaces and Arch btw 
   
 
 <br/>  

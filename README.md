@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a new version of [My Own Portfolio](https://www.ivanpmartin.com)  
   
 
-- 🌱 I’m currently learning Typescript and Spring framework to improve my knowledges on websites development  
+- 🌱 I’m currently learning Typescript and Python to improve my knowledges on websites development  
   
   
 
